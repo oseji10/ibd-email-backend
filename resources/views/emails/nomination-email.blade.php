@@ -60,7 +60,7 @@
 </head>
 <body>
 <!-- <img style="margin-top:-30; width:100%; height:auto;" src="{{ public_path('images/header.png') }}"> -->
-<img style="margin-top:-30; width:100%; height:auto;" src="/images/header.png">
+<img style="margin-top:-30; width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/header.png">
     <div class="text-content">
     @php
     use Carbon\Carbon;
@@ -87,16 +87,16 @@
         </ul>    
         <p>The Institute remains committed to upholding the highest Standard, Professionalism, Quality, and Integrity  in the field of Business Development. As the recognized professional body for Business Development Professionals in Nigeria, we represent the interests of our members before the government, the business community, and the public. The Institute maintains a comprehensive Code of Conduct and Professional Standards, ensuring the continued development of the profession and its members.</p>
     </div>
-    <img  src="/images/side.png" alt="Top Image" style="width:28%; height:auto; position:absolute; margin-top:-600">
+    <img  src="https://ibd.ecolemoderne.com/images/side.png" alt="Top Image" style="width:28%; height:auto; position:absolute; margin-top:-600">
     <!-- <img src="/images/side.png" width="100%" height="auto" style="margin-bottom:-100"> -->
-    <img src="/images/footer.png" width="100%" height="auto" style="margin-bottom:-100">
+    <img src="https://ibd.ecolemoderne.com/images/footer.png" width="100%" height="auto" style="margin-bottom:-100">
 
     <!-- <img src="{{ public_path('images/footer.png') }}" width="100%" height="auto" style="margin-bottom:-100"> -->
     
     
     <div class="page-break"></div>
 
-    <img class="top" src="{{ public_path('images/header.png') }}" alt="Top Image" style="width:100%">
+    <img class="top" src="https://ibd.ecolemoderne.com/images/header.png" alt="Top Image" style="width:100%">
     <div class="second-page-content">
 
         
@@ -118,7 +118,7 @@
         President/Chairman     
         </td>
         <td style="text-align: center">
-        <img src="{{ public_path('images/dg-sign.png') }}" width="50%" height="auto"/><br/>
+        <img src="https://ibd.ecolemoderne.com/images/dg-sign.png" width="50%" height="auto"/><br/>
         Prof Ben Oghojafor FBDI <br/>
         President/Chairman     
         </td>
@@ -126,6 +126,6 @@
     </table>
     <!-- <img class="bottom" src="{{ public_path('images/footer.png') }}">   -->
 </div>
-<img style=" margin-top:210" src="{{ public_path('images/footer.png') }}" width="100%" height="auto" >
+<img style=" margin-top:210" src="https://ibd.ecolemoderne.com/images/footer.png" width="100%" height="auto" >
 </body>
 </html>
