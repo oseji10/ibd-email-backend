@@ -86,7 +86,7 @@
         </ul>    
         <p>The Institute remains committed to upholding the highest Standard, Professionalism, Quality, and Integrity  in the field of Business Development. As the recognized professional body for Business Development Professionals in Nigeria, we represent the interests of our members before the government, the business community, and the public. The Institute maintains a comprehensive Code of Conduct and Professional Standards, ensuring the continued development of the profession and its members.</p>
     </div>
-    <img  src="{{ public_path('images/side.png') }}" alt="Top Image" style="width:28%; height:auto; position:absolute; margin-top:-600">
+    <img  src="https://app.ibd.ng/images/side.png" alt="Top Image" style="width:28%; height:auto; position:absolute; margin-top:-600">
     <img src="{{ public_path('images/footer.png') }}" width="100%" height="auto" style="margin-bottom:-100">
     
     
