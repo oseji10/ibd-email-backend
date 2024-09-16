@@ -12,7 +12,8 @@ use Illuminate\Support\Facades\Mail;
 class NomineesController extends Controller
 {
     public function showNominees(){
-        $nominees = Nominees::all();
+        // $nominees = Nominees::all()->orderBy('created_at')->asc();
+        $nominees = Nominees::orderBy('created_at', 'desc')->get();
     
         return response()->json([
             'message' => 'Nominees retrieved successfuly',
@@ -41,6 +42,7 @@ class NomineesController extends Controller
             // Add the created_by field with the authenticated user's ID
             $validated['nomination_date'] = $nomination_date;
             $validated['nominated_by'] = auth()->id();
+            $validated['status'] = 'nominated';
         
             try {
                 // Try sending the email first
