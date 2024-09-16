@@ -12,8 +12,8 @@ use Illuminate\Support\Facades\Mail;
 class NomineesController extends Controller
 {
     public function showNominees(){
-        // $nominees = Nominees::all()->orderBy('created_at')->asc();
-        $nominees = Nominees::orderBy('created_at', 'desc')->get();
+        $nominees = Nominees::all();
+        // $nominees = Nominees::orderBy('created_at', 'desc')->get();
     
         return response()->json([
             'message' => 'Nominees retrieved successfuly',
