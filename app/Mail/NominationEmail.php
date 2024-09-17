@@ -32,7 +32,7 @@ class NominationEmail extends Mailable
     public function build()
     {
         return $this->view('emails.nomination-email')
-                    ->subject('Nomination for Fellow Institute of Business Development')
+                    ->subject('Nomination for Fellow Of The Institute Of Business Development')
                     ->with([
                         'email' => $this->nominee_detail['email'], // Use array syntax
                         'first_name' => $this->nominee_detail['first_name'], // Use array syntax for these as well
@@ -40,8 +40,8 @@ class NominationEmail extends Mailable
                         'phone_number' => $this->nominee_detail['phone_number'],
                         'nomination_date' => $this->nominee_detail['nomination_date'],
                         'title' => $this->nominee_detail['title'],
-                        'action_url' => "https://app.ilearnafricaedu.com/auth/signin/",
-                        'login_url' => "https://app.ilearnafricaedu.com/auth/signin/",
+                        'action_url' => "https://app.ibd.ng/auth/signin/",
+                        'login_url' => "https://app.ibd.ng/auth/signin/",
                         'support_email' => "info@ibd.ng",
                     ]);
     }
