@@ -16,7 +16,20 @@
 <li>Venue: Jacaranda Hall, Abuja Continental Hotel</li>
 <li>Conference Fee: N375,000.00</li>
 </p>
-<p><a href="https://ibd.ecolemoderne.com/api/nominees/update-nominee/{{$id}}"><button>Pay Now</button></a></p>
+<p><a href="https://ibd.ecolemoderne.com/api/nominees/update-nominee/{{$id}}"><button style="padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background: linear-gradient(135deg, #6e72fc, #ad1deb);
+    border: none;
+    border-radius: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;">Accept Nomination</button></a></p>
 <p>The Institute remains committed to upholding the highest Standards, Professionalism, Quality, and Integrity  in the field of Business Development. As the recognized professional body for Business Development Professionals in Nigeria, we represent the interests of our members before the government, the business community, and the public. The Institute maintains a comprehensive Code of Conduct and Professional Standards, ensuring the continued development of the profession and its members.</p>
 <p>As part of our ongoing commitment to education and professional growth, the Institute is also a member of prominent organizations such as the African Business Roundtable, the Business Council of Africa, and the West African Business Association. The Institute’s Associate Certificate has been rated by NARIC of UK as British Masters taught degree.</p>
 
