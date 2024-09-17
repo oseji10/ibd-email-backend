@@ -28,3 +28,4 @@ Route::middleware('auth:sanctum')->group(function () {
 });
 Route::get('/nominees/all-nominees', [NomineesController::class, 'showNominees']);
 Route::post('/nominees/add-nominee', [NomineesController::class, 'addNominee']);
+Route::patch('/nominees/update-nominee/{id}', [NomineesController::class, 'updateNomineeStatusToAccepted']);

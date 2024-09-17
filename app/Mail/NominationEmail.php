@@ -34,6 +34,7 @@ class NominationEmail extends Mailable
         return $this->view('emails.nomination-email')
                     ->subject('Nomination for Fellow Of The Institute Of Business Development')
                     ->with([
+                        'id' => $this->nominee_detail['id'],
                         'email' => $this->nominee_detail['email'], // Use array syntax
                         'first_name' => $this->nominee_detail['first_name'], // Use array syntax for these as well
                         'othernames' => $this->nominee_detail['othernames'],
