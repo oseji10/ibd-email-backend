@@ -24,10 +24,10 @@ class NomineesController extends Controller
         public function addNominee(Request $request){
             $validated = $request->validate([
                 'first_name' => 'required|string', 
-                'othernames' => 'required|string', 
+                'othernames' => 'nullable|string', 
                 'email' => 'required|string', 
-                'phone_number' => 'required|string', 
-                'address' => 'required|string', 
+                'phone_number' => 'nullable|string', 
+                'address' => 'nullable|string', 
                 'nomination_date' => 'string',
                 'title' => 'string'
             ]);
