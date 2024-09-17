@@ -1,6 +1,6 @@
 <!-- <h1>The Institute of Business Development</h1> -->
 <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/header.png">
-<h6>{{$title}} {{$first_name}} {{$othernames}}</h6>
+<h3>{{$title}} {{$first_name}} {{$othernames}}</h3>
 <p>Dear Sir,</p>
 <p><b><u>NOMINATION FOR THE AWARD OF FELLOW OF THE INSTITUTE OF BUSINESS DEVELOPMENT AND INVITATION TO ATTEND OUR 9TH NATIONAL CONFERENCE</u></b></p>
 <p>On behalf of the Council, we are pleased to inform you of your nomination for the conferment of the award of Fellow of the Institute of Business Development. This honour is in recognition of your outstanding professional achievements and exemplary leadership in public service</p>
