@@ -32,12 +32,12 @@
 <table width="100%">
     <tr>
         <td style="text-align: left"><br/>
-        <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/president-sign.png"><br/><br/>
+        <img style="width:50%; height:auto;" src="https://ibd.ecolemoderne.com/images/president-sign.png"><br/><br/>
         Prof Ben Oghojafor FBDI <br/>
         President/Chairman     
         </td>
         <td style="text-align: center">
-        <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/dg-sign.png"><br/>
+        <img style="width:50%; height:auto;" src="https://ibd.ecolemoderne.com/images/dg-sign.png"><br/>
         Dr. Paul Ikele FBDI <br/>
         Registrar/CEO    
         </td>
@@ -45,3 +45,124 @@
     </table>
 
 <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/footer.png">
+
+<h1>Benefits of the Fellowship of the Institute of Business Development</h1>
+    <ol>
+        <li><strong>Professional Recognition:</strong>
+            <p>Attain the highest accolade within the Institute, showcasing your exceptional professional achievements and leadership qualities.</p>
+        </li>
+        <li><strong>Networking Opportunities:</strong>
+            <p>Connect with fellow industry leaders, captains of industry, government agency heads, members of the diplomatic community, and business professionals from around the globe.</p>
+        </li>
+        <li><strong>Leadership Development:</strong>
+            <p>Access exclusive seminars, workshops, and training sessions designed to enhance leadership and strategic management skills.</p>
+        </li>
+        <li><strong>Exclusive Events:</strong>
+            <p>Receive invitations to attend high-profile events, conferences, and summits organized by the Institute, offering valuable insights and opportunities.</p>
+        </li>
+        <li><strong>Industry Influence:</strong>
+            <p>Participate in shaping industry standards and policies through engagement with the Institute’s various committees and working groups.</p>
+        </li>
+        <li><strong>Professional Growth:</strong>
+            <p>Benefit from continuous professional development programs and resources to keep abreast of the latest trends and best practices in business development.</p>
+        </li>
+        <li><strong>Mentorship Opportunities:</strong>
+            <p>Mentor and guide upcoming professionals, contributing to the development of the next generation of business leaders.</p>
+        </li>
+        <li><strong>Publications and Resources:</strong>
+            <p>Gain access to exclusive publications, research materials, and industry reports that provide cutting-edge knowledge and insights.</p>
+        </li>
+        <li><strong>Enhanced Credibility:</strong>
+            <p>Enhance your professional credibility and marketability with the Fellowship designation, widely recognized and respected in the business community.</p>
+        </li>
+        <li><strong>Global Community:</strong>
+            <p>Join a global community of distinguished professionals, fostering international collaborations and opportunities.</p>
+        </li>
+        <li><strong>Advocacy and Representation:</strong>
+            <p>Have your interests represented within government and industry forums, contributing to the advancement of the business development profession.</p>
+        </li>
+    </ol>
+
+<p><b>Our Esteemed Clientele</b><br/>
+We take pride in our diverse and prestigious clientele, reflecting the trust and confidence that leading organizations have placed in our leadership and business seminars. Our growing client base includes:
+<b>Telecommunications:</b>
+<ul>
+<li>MTN Nigeria Communication Ltd (MTN)</li>
+<li>Etisalat Nigeria</li>
+</ul>
+</p>
+
+<p><b>Government Agencies:</b>
+<ul>
+<li>Nigerian Maritime Administration and Safety Agency (NIMASA)</li>
+<li>Nigerian Airspace Management Agency (NAMA)</li>
+<li>Federal Airports Authority of Nigeria (FAAN)</li>
+<li>Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)</li>
+<li>National Agency for Science and Engineering Infrastructure (NASENI)</li>
+</ul>
+</p>
+
+<p><b>Banking and Financial Services:</b>
+<ul>
+<li>Bank of Industry</li>
+<li>First Bank of Nigeria</li>
+<li>Niger Insurance Plc</li>
+<li>West African Institute for Financial and Economic Management (WAIFEM)</li>
+<li>Leasing Company of Nigeria Ltd</li>
+<li>Safe Trust Savings & Loan Ltd</li>
+</ul>
+</p>
+
+<p><b>Manufacturing and FMCG:</b>
+<ul>
+<li>PZ Cussons Nigeria Plc</li>
+<li>Glaxo Smith Kline</li>
+<li>Fidson Healthcare Plc</li>
+<li>May & Baker Plc</li>
+</ul>
+</p>
+
+<p><b>Engineering and Construction:</b>
+<ul>
+<li>Cakasa Nigeria Company Limited</li>
+<li>Megastar Technical and Construction Company Ltd</li>
+<li>Mopol Engineering Services Ltd</li>
+</ul>
+</p>
+
+<p><b>Automotive:</b>
+<ul>
+<li>Peugeot Automobile Nigeria Ltd</li>
+<li>Nigeria Motors Ltd</li>
+</ul>
+</p>
+
+<p><b>Energy and Petroleum</b>
+<ul>
+<li>ADDAX Petroleum Nigeria Ltd</li>
+<li>Multinational Technologies Ltd</li>
+</ul>
+</p>
+
+<p><b>Healthcare:</b>
+<ul>
+<li>Glaxo Smith Kline</li>
+<li>Fidson Healthcare Plc</li>
+</ul>
+</p>
+
+<p><b>State and Development Agencies:</b>
+<ul>
+<li>Niger State Development Company (NSDC)</li>
+</ul>
+</p>
+
+<p><b>Other Notable Clients:</b>
+<ul>
+<li>Mantrac Nigeria Limited</li>
+<li>Daddo Maritime Services Limited</li>
+<li>Topsfield Nigeria Ltd</li>
+</ul>
+</p>
+
+<img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/flyer.jpeg">
