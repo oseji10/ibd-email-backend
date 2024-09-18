@@ -52,7 +52,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/header.png">
+            <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/ibd-header-new.png">
             <!-- <h1>Institute of Business Development</h1> -->
         </div>
         <h3>{{$title}} {{$first_name}} {{$othernames}}</h3>
@@ -133,7 +133,7 @@
 
         <div class="footer">
             <p>Sincerely,</p><br/>
-            <img style="width:30%; height:auto;" src="https://ibd.ecolemoderne.com/images/president-sign.png"><br/><br/>
+            <img style="width:30%; height:auto;" src="https://ibd.ecolemoderne.com/images/dr-ikele-sign.png"><br/><br/>
             <p>Dr. Paul Ikele FBDI<br>
                Registrar/CEO</p>
             
