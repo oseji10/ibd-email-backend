@@ -21,11 +21,13 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 Route::post('/register', [AuthController::class, 'register'])->name('register');
 Route::post('/login', [AuthController::class, 'login']);
-Route::post('/logout', [AuthController::class, 'logout']);
+// Route::post('/logout', [AuthController::class, 'logout']);
 
 Route::middleware('auth:sanctum')->group(function () {
     
+    Route::get('/nominees/all-nominees', [NomineesController::class, 'showNominees']);
+    Route::post('/nominees/add-nominee', [NomineesController::class, 'addNominee']);
+    Route::get('/nominees/update-nominee/{id}', [NomineesController::class, 'updateNomineeStatusToAccepted']);
 });
-Route::get('/nominees/all-nominees', [NomineesController::class, 'showNominees']);
-Route::post('/nominees/add-nominee', [NomineesController::class, 'addNominee']);
-Route::get('/nominees/update-nominee/{id}', [NomineesController::class, 'updateNomineeStatusToAccepted']);
+// Add this to your routes/api.php file
+Route::middleware('auth:sanctum')->post('/logout', [AuthController::class, 'logout']);
