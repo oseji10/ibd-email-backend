@@ -133,7 +133,7 @@
 
         <div class="footer">
             <p>Sincerely,</p><br/>
-            <img style="width:50%; height:auto;" src="https://ibd.ecolemoderne.com/images/president-sign.png"><br/><br/>
+            <img style="width:30%; height:auto;" src="https://ibd.ecolemoderne.com/images/president-sign.png"><br/><br/>
             <p>Dr. Paul Ikele FBDI<br>
                Registrar/CEO</p>
             

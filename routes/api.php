@@ -27,7 +27,7 @@ Route::middleware('auth:sanctum')->group(function () {
     
     Route::get('/nominees/all-nominees', [NomineesController::class, 'showNominees']);
     Route::post('/nominees/add-nominee', [NomineesController::class, 'addNominee']);
-    Route::get('/nominees/update-nominee/{id}', [NomineesController::class, 'updateNomineeStatusToAccepted']);
 });
+Route::get('/nominees/update-nominee/{id}', [NomineesController::class, 'updateNomineeStatusToAccepted']);
 // Add this to your routes/api.php file
 Route::middleware('auth:sanctum')->post('/logout', [AuthController::class, 'logout']);
