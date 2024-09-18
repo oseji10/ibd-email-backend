@@ -21,7 +21,12 @@ return [
 
     // 'allowed_origins' => ['*'],
 
-    'allowed_origins' => ['http://localhost:3001'],
+    // 'allowed_origins' => ['http://localhost:3001'],
+    'allowed_origins' => [
+    'http://localhost:3001',
+    'https://ibd.ng',
+    'https://app.ibd.ng'
+    ],
 
 
     'allowed_origins_patterns' => [],
