@@ -94,7 +94,7 @@ public function updateNomineeStatusToAccepted(Request $request, $id)
     $update->update(['status' => 'accepted']);
 
     // return response()->json(['message' => 'Nominee status updated successfully.']);
-    return redirect()->away('https://app.ibd.ng/nominees/accepted');
+    return redirect()->away('https://app.ibd.ng/accepted');
 
 }
 
