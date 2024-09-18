@@ -57,7 +57,7 @@
         </div>
         <h3>{{$title}} {{$first_name}} {{$othernames}}</h3>
         <div class="content">
-            <p>Dear Sir/Madam,</p>
+            <p>Dear {{$title}} {{$first_name}},</p>
             <h3>Nomination for Honorary Fellow of the Institute of Business Development and Invitation to Attend the Business and Leadership Seminar.</h3>
             
             <p>The Council of the Institute of Business Development is delighted to confirm your nomination and selection for the conferment of the Honorary Fellow of the Institute of Business Development. This prestigious honour is a recognition of your remarkable professional achievements and exemplary leadership qualities. The Honorary Fellow of the Institute represents the highest accolade within our Institute, reserved for distinguished professionals and high-profile leaders such as yourself.</p>
