@@ -87,7 +87,7 @@
     transition: all 0.3s ease-in-out;
     position: relative;
     z-index: 1;
-    overflow: hidden;">Accept Invitation</button></a></p>
+    overflow: hidden;">Accept Nomination</button></a></p>
 
             <p>The Institute serves as the professional body for Business Development professionals in Nigeria. Representing the interests of its members within the government, the business community, and the general public, the Institute commits to upholding quality, integrity, and high professional standards. The Institute has established a comprehensive Code of Conduct, requiring ongoing development and review of Professional Standards. A robust disciplinary process enforces adherence to this Code and Standards.</p>
             
@@ -129,7 +129,7 @@
     transition: all 0.3s ease-in-out;
     position: relative;
     z-index: 1;
-    overflow: hidden;">Accept Invitation</button></a></p>
+    overflow: hidden;">Accept Nomination</button></a></p>
 
         <div class="footer">
             <p>Sincerely,</p><br/>
