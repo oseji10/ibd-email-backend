@@ -2,7 +2,7 @@
 
 namespace App\Jobs;
 
-use App\Mail\NominationEmail;
+use App\Mail\SeminarEmail;
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
@@ -34,6 +34,6 @@ class SendNominationEmailJob implements ShouldQueue
     public function handle()
     {
         // Send the email with nominee details including the generated ID
-        Mail::to($this->nominee->email)->send(new NominationEmail($this->nominee));
+        Mail::to($this->nominee->email)->send(new SeminarEmail($this->nominee));
     }
 }
