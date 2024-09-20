@@ -65,7 +65,7 @@
             <p>The Institute of Business Development is the premier global professional body for Business Development professionals. It is also an internationally recognized examining and awarding body for business students and affiliates. Attending the Institute's Business and Leadership Seminar provides a unique opportunity to network with like-minded individuals, industry captains, experts, government agency heads, members of the diplomatic community, and the broader business community.</p>
             
             <h2>Event Details</h2>
-            <p><strong>Location:</strong> Kano</p>
+            <p><strong>Location:</strong> Abuja</p>
             <p><strong>Date:</strong> Tuesday, 15th October, 2024</p>
             <p><strong>Time:</strong> 10:00 AM</p>
             <p><strong>Venue:</strong> Venue: Suite 308, Nawa Complex, Plot 106 & 107, Ahmadu Bello Way, Jahi Abuja.</p>
