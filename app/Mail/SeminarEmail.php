@@ -31,7 +31,7 @@ class SeminarEmail extends Mailable
      */
     public function build()
     {
-        return $this->view('emails.seminar')
+        return $this->view('emails.kano-seminar')
                     ->subject('Nomination for Honorary Fellow of the Institute of Business Development and Invitation to Attend the Business and Leadership Seminar')
                     ->with([
                         'id' => $this->nominee_detail['id'],
