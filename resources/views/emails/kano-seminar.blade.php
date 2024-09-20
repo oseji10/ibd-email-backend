@@ -52,7 +52,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/images/kano-header.png">
+            <img style="width:100%; height:auto;" src="https://ibd.ecolemoderne.com/kano-header.png">
             <!-- <h1>Institute of Business Development</h1> -->
         </div>
         <h3>{{$title}} {{$first_name}} {{$othernames}}</h3>
